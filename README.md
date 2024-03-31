@@ -8,7 +8,7 @@ Features
 4)User-Friendly: The GUI design is simple and user-friendly, making it easy for cashiers to learn and use.   
 
 
-Requirements
-Python 3.x
-Tkinter
-MySQL
+Requirements   
+Python 3.x   
+Tkinter   
+MySQL   
